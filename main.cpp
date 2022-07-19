@@ -1,14 +1,3 @@
-/*
-ELEC2645 Embedded Systems Project
-School of Electronic & Electrical Engineering
-University of Leeds
-2019/20
-
-Name: Donatas Mickevicius
-Username: el18dm
-Student ID Number: 201260463
-Date: 10/03/2020
-*/
 
 //--------------includes----------------
 #include "mbed.h"
